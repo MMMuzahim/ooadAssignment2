@@ -1,4 +1,3 @@
-
 import java.util.Optional;
 
 public class BufferReader<T> {
