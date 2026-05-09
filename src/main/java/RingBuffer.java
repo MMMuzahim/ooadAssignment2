@@ -1,3 +1,4 @@
+
 public class RingBuffer<T> {
     private final T[] buffer;
     private final int capacity;
